@@ -1,0 +1,17 @@
+# Virtual environment
+.venv/
+venv/
+env/
+wa_session/
+
+# Sensitive local scripts
+send_selection_script.py
+send_selection_script1.py
+test_automation.py
+
+# PyWhatKit logs (contains phone numbers & history)
+PyWhatKit_DB.txt
+
+# Python cache & temp files
+__pycache__/
+*.py[cod]
